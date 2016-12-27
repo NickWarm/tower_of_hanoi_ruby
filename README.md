@@ -39,4 +39,4 @@ There are n disks of different sizes and three pegs. Initially, all the disks ar
 - [tower_original.rb](https://github.com/NickWarm/tower_of_hanoi_ruby/blob/master/tower_original.rb)：傳統河內塔
 - [tower_limit.rb](https://github.com/NickWarm/tower_of_hanoi_ruby/blob/master/tower_limit.rb)：Algorithmic puzzles的習題83題，有限制的河內塔
 
-看完投影片就能理解`tower_limit.rb`為何這樣寫，但是程式還是有些小bug，目前我還沒想到要怎麼解掉，歡迎提出修改意見
+看完投影片就能理解`tower_limit.rb`為何這樣寫，但是程式還是有些小bug，目前我還沒想到要怎麼解掉，歡迎提出修改意見。
